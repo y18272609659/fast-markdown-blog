@@ -1,4 +1,4 @@
-# xiaoman-blog
+# fast-markdown-blog
 
 > My excellent Nuxt.js project
 
