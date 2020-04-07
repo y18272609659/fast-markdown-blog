@@ -1,13 +1,14 @@
 # fast-markdown-blog
 
 Fast build Markdown-Blog based on Nuxt. Just drag a `.md` file into the project and enter command, then the file is read automatically to generate a page. 
+
 基于Nuxt快速搭建Markdown博客，只需拖入.md文件，输入命令行后自动读取，生成文章。
 
 ## Be Based On
 
 `Nuxt` `nodejs` `frontmatter-markdown-loader`
 
-## File List
+## File System
 
 ```js
 - articles
